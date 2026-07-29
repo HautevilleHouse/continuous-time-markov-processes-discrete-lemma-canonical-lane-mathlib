@@ -1,0 +1,9 @@
+import continuous_time_markov_processes_discrete_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace continuous_time_markov_processes_discrete_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end continuous_time_markov_processes_discrete_lemma_canonical_lane_mathlib
+end HautevilleHouse
